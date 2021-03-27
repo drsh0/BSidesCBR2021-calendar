@@ -4,11 +4,11 @@ Unofficial importable calendar files based on [BSides Canberra 2021 schedule](ht
 
 ### Releases
 
-**Combined (Day 1 & Day 2)**:
+**Combined (Day 1 & Day 2)**: https://github.com/drsh0/BSidesCBR2021-calendar/releases/download/v1/bsides-cbr-2021-combined.ics
 
-**Day 1**: 
+**Day 1**: https://github.com/drsh0/BSidesCBR2021-calendar/releases/download/v1/bsides-cbr-2021-day-1.ics
 
-**Day 2**:
+**Day 2**: https://github.com/drsh0/BSidesCBR2021-calendar/releases/download/v1/bsides-cbr-2021-day-2.ics
 
 ### Importing iCal files
 Calendar files can be downloaded and imported to your favourite calendar application. Instruction below:
